@@ -83,6 +83,9 @@
 		<Unit filename="H:/LinuxCppServer/LinuxCppServer/main.cpp">
 			<Option target="LinuxCppServer"/>
 		</Unit>
+		<Unit filename="H:/LinuxCppServer/LinuxCppServer/main.h">
+			<Option target="LinuxCppServer"/>
+		</Unit>
 		<Unit filename="H:/LinuxCppServer/LinuxCppServer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

@@ -1,3 +1,3 @@
-"D:\Clion2020\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\LinuxCppServer.dir/objects.a
+"D:\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\LinuxCppServer.dir/objects.a
 G:\MINGW64-8.1\mingw64\bin\ar.exe cr CMakeFiles\LinuxCppServer.dir/objects.a @CMakeFiles\LinuxCppServer.dir\objects1.rsp
 G:\MINGW64-8.1\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\LinuxCppServer.dir/objects.a -Wl,--no-whole-archive  -o LinuxCppServer.exe -Wl,--out-implib,libLinuxCppServer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LinuxCppServer.dir\linklibs.rsp

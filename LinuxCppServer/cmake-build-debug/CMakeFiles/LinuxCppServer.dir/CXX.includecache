@@ -7,6 +7,16 @@
 #IncludeRegexTransform: 
 
 H:/LinuxCppServer/LinuxCppServer/main.cpp
+main.h
+H:/LinuxCppServer/LinuxCppServer/main.h
+
+H:/LinuxCppServer/LinuxCppServer/main.h
 iostream
+-
+exception
+-
+type_traits
+-
+algorithm
 -
 

@@ -21,8 +21,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../LinuxCppServer\exportToHTML" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.cpp" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1dTcqRH0EFJr7uhCGvMGmRN1pfS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,9 +37,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="LinuxCppServer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LinuxCppServer" TARGET_NAME="LinuxCppServer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LinuxCppServer" RUN_TARGET_NAME="LinuxCppServer">
@@ -53,7 +62,27 @@
       <option name="presentableId" value="Default" />
       <updated>1592452713712</updated>
       <workItem from="1592452716043" duration="427000" />
-      <workItem from="1592453153004" duration="35000" />
+      <workItem from="1592453153004" duration="1183000" />
+      <workItem from="1592455801813" duration="1684000" />
+      <workItem from="1592458479333" duration="325000" />
+      <workItem from="1592458815119" duration="95000" />
+      <workItem from="1592458919882" duration="111000" />
+      <workItem from="1592459039928" duration="3633000" />
+      <workItem from="1592464725706" duration="1036000" />
+      <workItem from="1592465772041" duration="1539000" />
+      <workItem from="1592467322323" duration="963000" />
+      <workItem from="1592468296543" duration="229000" />
+      <workItem from="1592468537317" duration="994000" />
+      <workItem from="1592469639932" duration="49000" />
+      <workItem from="1592469699562" duration="106000" />
+      <workItem from="1592469816000" duration="32000" />
+      <workItem from="1592470400534" duration="2349000" />
+      <workItem from="1592623892604" duration="16132000" />
+      <workItem from="1592744271355" duration="6013000" />
+      <workItem from="1592881883019" duration="11881000" />
+      <workItem from="1592990915450" duration="1637000" />
+      <workItem from="1593048412373" duration="4520000" />
+      <workItem from="1593780977446" duration="63000" />
     </task>
     <servers />
   </component>
@@ -66,45 +95,113 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1592647293704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1592647293704" />
+    <state x="465" y="121" key="#LinuxCppServer" timestamp="1592467390770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="121" key="#LinuxCppServer/0.0.1536.824@0.0.1536.824" timestamp="1592467390770" />
+    <state x="538" y="82" key="#New_File_Extensions" timestamp="1592646988458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="82" key="#New_File_Extensions/0.0.1536.824@0.0.1536.824" timestamp="1592646988458" />
+    <state x="433" y="66" key="#Plugins" timestamp="1592990845598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="66" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1592990845598" />
+    <state x="668" y="275" width="689" height="273" key="#Vim_Emulation" timestamp="1592992948093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="275" width="689" height="273" key="#Vim_Emulation/0.0.1536.824@0.0.1536.824" timestamp="1592992948093" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592452998349">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592452998349" />
-    <state x="516" y="281" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592453140581">
+    <state x="516" y="281" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592469840321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="516" y="281" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1592453140581" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1592453177754">
+    <state x="516" y="281" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1592469840321" />
+    <state x="583" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1592882241799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592453177754" />
-    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1592453142345">
+    <state x="583" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592882241799" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592713337050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592453142345" />
-    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1592453142344">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592713337050" />
+    <state x="395" y="91" key="#检查" timestamp="1592465489568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592453142344" />
-    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1592453142344">
+    <state x="395" y="91" key="#检查/0.0.1536.824@0.0.1536.824" timestamp="1592465489568" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1592469838940">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592453142344" />
-    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1592453142344">
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592469838940" />
+    <state width="744" height="285" key="GridCell.Tab.0.bottom" timestamp="1593048691003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592453142344" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1592453186996">
+    <state width="744" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593048691003" />
+    <state width="744" height="285" key="GridCell.Tab.0.center" timestamp="1593048691003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592453186996" />
-    <state width="453" height="353" key="javadoc.popup.new" timestamp="1592453091009">
+    <state width="744" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593048691003" />
+    <state width="744" height="285" key="GridCell.Tab.0.left" timestamp="1593048691003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="453" height="353" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1592453091009" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592453017064">
+    <state width="744" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593048691003" />
+    <state width="744" height="285" key="GridCell.Tab.0.right" timestamp="1593048691003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592453017064" />
+    <state width="744" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593048691003" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1592835117610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592835117610" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1592835117610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592835117610" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1592835117610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592835117610" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1592835117610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592835117610" />
+    <state x="187" y="114" width="1292" height="710" key="SettingsEditor" timestamp="1592990898667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="187" y="114" width="1292" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592990898667" />
+    <state x="490" y="154" width="540" height="524" key="StructurePopup" timestamp="1592468345791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="540" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1592468345791" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1592460717518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="453" height="353" key="javadoc.popup.new" timestamp="1592882026290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="453" height="353" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1592882026290" />
+    <state width="600" height="428" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1592460717518" />
+    <state x="282" y="33" width="1004" height="682" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592469389586">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="33" width="1004" height="682" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1592469389586" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1592459142306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592459142306" />
+    <state x="561" y="271" key="scopes" timestamp="1592464433766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="271" key="scopes/0.0.1536.824@0.0.1536.824" timestamp="1592464433766" />
+    <state x="650" y="198" width="672" height="678" key="search.everywhere.popup" timestamp="1592990815032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="650" y="198" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592990815032" />
   </component>
 </project>

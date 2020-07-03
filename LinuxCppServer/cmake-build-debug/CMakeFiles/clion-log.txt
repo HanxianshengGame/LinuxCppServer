@@ -1,4 +1,4 @@
-"D:\Clion2020\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" H:\LinuxCppServer\LinuxCppServer
+"D:\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" H:\LinuxCppServer\LinuxCppServer
 -- Configuring done
 -- Generating done
 -- Build files have been written to: H:/LinuxCppServer/LinuxCppServer/cmake-build-debug

@@ -3,4 +3,4 @@ project(LinuxCppServer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LinuxCppServer main.cpp)
+add_executable(LinuxCppServer main.cpp main.h)
