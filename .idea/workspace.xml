@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LinuxCppServer" targetName="LinuxCppServer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aa2f93a-a9ec-41d8-8ede-36547e879c60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LinuxCppServer/main.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinuxCppServer/BoostAsio_Study.cpp" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LinuxCppServer/MultiThread_Study.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinuxCppServer/BoostAsio_Study.h" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1eIHwH3mvF4wWPw29gaThcVWGSa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LinuxCppServer/CMakeLists.txt" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinuxCppServer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LinuxCppServer" TARGET_NAME="LinuxCppServer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LinuxCppServer" RUN_TARGET_NAME="LinuxCppServer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aa2f93a-a9ec-41d8-8ede-36547e879c60" name="Default Changelist" comment="" />
+      <created>1594002423624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594002423624</updated>
+      <workItem from="1594002427335" duration="34000" />
+      <workItem from="1594002471452" duration="14220000" />
+      <workItem from="1594080189125" duration="25519000" />
+      <workItem from="1594536157689" duration="684000" />
+      <workItem from="1594639943410" duration="201000" />
+      <workItem from="1594721930669" duration="8865000" />
+      <workItem from="1594812873955" duration="5321000" />
+      <workItem from="1594861372705" duration="1538000" />
+      <workItem from="1594862933071" duration="2959000" />
+      <workItem from="1594865906902" duration="1008000" />
+      <workItem from="1594866925666" duration="700000" />
+      <workItem from="1594870023115" duration="16137000" />
+      <workItem from="1594903024887" duration="2748000" />
+      <workItem from="1594910322090" duration="8925000" />
+      <workItem from="1594962914084" duration="9510000" />
+      <workItem from="1594982045119" duration="321000" />
+      <workItem from="1594982541661" duration="6141000" />
+      <workItem from="1595038636172" duration="4008000" />
+      <workItem from="1595044400790" duration="2177000" />
+      <workItem from="1595046606958" duration="21739000" />
+      <workItem from="1595121222647" duration="539000" />
+      <workItem from="1595145176685" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1595041111007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1595041111007" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1595064208561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595064208561" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594010613665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594010613665" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594002608271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594002608271" />
+    <state width="924" height="141" key="GridCell.Tab.0.bottom" timestamp="1595121208523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="924" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595121208523" />
+    <state width="924" height="141" key="GridCell.Tab.0.center" timestamp="1595121208523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="924" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595121208523" />
+    <state width="924" height="141" key="GridCell.Tab.0.left" timestamp="1595121208523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="924" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595121208523" />
+    <state width="924" height="141" key="GridCell.Tab.0.right" timestamp="1595121208523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="924" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595121208523" />
+    <state width="760" height="94" key="GridCell.Tab.1.bottom" timestamp="1594962868074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="94" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594962868074" />
+    <state width="760" height="94" key="GridCell.Tab.1.center" timestamp="1594962868074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="94" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594962868074" />
+    <state width="760" height="94" key="GridCell.Tab.1.left" timestamp="1594962868074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="94" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594962868074" />
+    <state width="760" height="94" key="GridCell.Tab.1.right" timestamp="1594962868074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="760" height="94" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594962868074" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1594862855973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1594862855973" />
+    <state x="228" y="50" width="1295" height="710" key="SettingsEditor" timestamp="1595074931456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="228" y="50" width="1295" height="710" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595074931456" />
+    <state x="407" y="213" width="891" height="524" key="StructurePopup" timestamp="1595036090568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="213" width="891" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1595036090568" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1595040722593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595040722593" />
+    <state x="489" y="156" width="672" height="678" key="search.everywhere.popup" timestamp="1595074759323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="156" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595074759323" />
+  </component>
+</project>

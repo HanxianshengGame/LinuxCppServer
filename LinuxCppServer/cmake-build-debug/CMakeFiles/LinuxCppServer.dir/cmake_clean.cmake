@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj"
+  "CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj"
   "CMakeFiles/LinuxCppServer.dir/main.cpp.obj"
   "LinuxCppServer.exe"
   "LinuxCppServer.exe.manifest"

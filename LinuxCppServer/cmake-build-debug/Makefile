@@ -122,6 +122,60 @@ LinuxCppServer/fast:
 	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/build
 .PHONY : LinuxCppServer/fast
 
+BoostAsio_Study.obj: BoostAsio_Study.cpp.obj
+
+.PHONY : BoostAsio_Study.obj
+
+# target to build an object file
+BoostAsio_Study.cpp.obj:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj
+.PHONY : BoostAsio_Study.cpp.obj
+
+BoostAsio_Study.i: BoostAsio_Study.cpp.i
+
+.PHONY : BoostAsio_Study.i
+
+# target to preprocess a source file
+BoostAsio_Study.cpp.i:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.i
+.PHONY : BoostAsio_Study.cpp.i
+
+BoostAsio_Study.s: BoostAsio_Study.cpp.s
+
+.PHONY : BoostAsio_Study.s
+
+# target to generate assembly for a file
+BoostAsio_Study.cpp.s:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.s
+.PHONY : BoostAsio_Study.cpp.s
+
+MultiThread_Study.obj: MultiThread_Study.cpp.obj
+
+.PHONY : MultiThread_Study.obj
+
+# target to build an object file
+MultiThread_Study.cpp.obj:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj
+.PHONY : MultiThread_Study.cpp.obj
+
+MultiThread_Study.i: MultiThread_Study.cpp.i
+
+.PHONY : MultiThread_Study.i
+
+# target to preprocess a source file
+MultiThread_Study.cpp.i:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.i
+.PHONY : MultiThread_Study.cpp.i
+
+MultiThread_Study.s: MultiThread_Study.cpp.s
+
+.PHONY : MultiThread_Study.s
+
+# target to generate assembly for a file
+MultiThread_Study.cpp.s:
+	$(MAKE) -f CMakeFiles\LinuxCppServer.dir\build.make CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.s
+.PHONY : MultiThread_Study.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +212,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... LinuxCppServer
 	@echo ... edit_cache
+	@echo ... BoostAsio_Study.obj
+	@echo ... BoostAsio_Study.i
+	@echo ... BoostAsio_Study.s
+	@echo ... MultiThread_Study.obj
+	@echo ... MultiThread_Study.i
+	@echo ... MultiThread_Study.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

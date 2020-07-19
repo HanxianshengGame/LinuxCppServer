@@ -1,2 +1,0 @@
-# LInuxCppServer
- Linux C++ develope

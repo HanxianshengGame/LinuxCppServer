@@ -57,6 +57,7 @@ include CMakeFiles/LinuxCppServer.dir/progress.make
 include CMakeFiles/LinuxCppServer.dir/flags.make
 
 CMakeFiles/LinuxCppServer.dir/main.cpp.obj: CMakeFiles/LinuxCppServer.dir/flags.make
+CMakeFiles/LinuxCppServer.dir/main.cpp.obj: CMakeFiles/LinuxCppServer.dir/includes_CXX.rsp
 CMakeFiles/LinuxCppServer.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\LinuxCppServer\LinuxCppServer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LinuxCppServer.dir/main.cpp.obj"
 	G:\MINGW64-8.1\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LinuxCppServer.dir\main.cpp.obj -c H:\LinuxCppServer\LinuxCppServer\main.cpp
@@ -69,19 +70,51 @@ CMakeFiles/LinuxCppServer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LinuxCppServer.dir/main.cpp.s"
 	G:\MINGW64-8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\LinuxCppServer\LinuxCppServer\main.cpp -o CMakeFiles\LinuxCppServer.dir\main.cpp.s
 
+CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj: CMakeFiles/LinuxCppServer.dir/flags.make
+CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj: CMakeFiles/LinuxCppServer.dir/includes_CXX.rsp
+CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj: ../MultiThread_Study.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\LinuxCppServer\LinuxCppServer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LinuxCppServer.dir\MultiThread_Study.cpp.obj -c H:\LinuxCppServer\LinuxCppServer\MultiThread_Study.cpp
+
+CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.i"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\LinuxCppServer\LinuxCppServer\MultiThread_Study.cpp > CMakeFiles\LinuxCppServer.dir\MultiThread_Study.cpp.i
+
+CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.s"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\LinuxCppServer\LinuxCppServer\MultiThread_Study.cpp -o CMakeFiles\LinuxCppServer.dir\MultiThread_Study.cpp.s
+
+CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj: CMakeFiles/LinuxCppServer.dir/flags.make
+CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj: CMakeFiles/LinuxCppServer.dir/includes_CXX.rsp
+CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj: ../BoostAsio_Study.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=H:\LinuxCppServer\LinuxCppServer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LinuxCppServer.dir\BoostAsio_Study.cpp.obj -c H:\LinuxCppServer\LinuxCppServer\BoostAsio_Study.cpp
+
+CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.i"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\LinuxCppServer\LinuxCppServer\BoostAsio_Study.cpp > CMakeFiles\LinuxCppServer.dir\BoostAsio_Study.cpp.i
+
+CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.s"
+	G:\MINGW64-8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\LinuxCppServer\LinuxCppServer\BoostAsio_Study.cpp -o CMakeFiles\LinuxCppServer.dir\BoostAsio_Study.cpp.s
+
 # Object files for target LinuxCppServer
 LinuxCppServer_OBJECTS = \
-"CMakeFiles/LinuxCppServer.dir/main.cpp.obj"
+"CMakeFiles/LinuxCppServer.dir/main.cpp.obj" \
+"CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj" \
+"CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj"
 
 # External object files for target LinuxCppServer
 LinuxCppServer_EXTERNAL_OBJECTS =
 
 LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/main.cpp.obj
+LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/MultiThread_Study.cpp.obj
+LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/BoostAsio_Study.cpp.obj
 LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/build.make
 LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/linklibs.rsp
 LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/objects1.rsp
 LinuxCppServer.exe: CMakeFiles/LinuxCppServer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=H:\LinuxCppServer\LinuxCppServer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LinuxCppServer.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=H:\LinuxCppServer\LinuxCppServer\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable LinuxCppServer.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LinuxCppServer.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
